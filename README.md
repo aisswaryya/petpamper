@@ -1,2 +1,2 @@
 # petpamper
-ux project: pet app design 
+ux design project using Adobe XD, InVision
